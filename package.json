@@ -1,0 +1,14 @@
+{
+  "name": "my_new_app",
+  "version": "1.0.0",
+  "description": "My first application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ariane Rousseau",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
