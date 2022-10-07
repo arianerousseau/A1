@@ -1,6 +1,6 @@
 # Web programming project
 ## The website will contain:
-* a login / create account page with an associated database for users and password. 
+* a login / create account page associated to a database for users and password. 
 * a ranking system based on the score of all the users (also hold in the database).  
 
 _The way of gaining points will be decided later._  
